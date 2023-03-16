@@ -4,7 +4,7 @@ import style from "@/styles/head.module.scss"
 import { useState } from "react";
 
 
-export default function techno(){
+export default function Techno(){
 
   const [gauche, setGauche] = useState(false)
   const [close, setClose] = useState(false)

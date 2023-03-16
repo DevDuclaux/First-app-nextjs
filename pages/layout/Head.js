@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-export default function entete(){
+export default function Entete(){
     return (
         <>
         <Head>
